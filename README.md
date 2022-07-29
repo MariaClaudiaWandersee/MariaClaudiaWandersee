@@ -18,9 +18,6 @@
 <img align="center" alt="Maria-VisualStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?color=currentColor" />
   <img align="center" alt="Maria-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Maria-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg?"/>
-  
-
-<img align="right" alt="Maria-GIF-Yoda" height="150" style="border-radius:50px;" src="https://sdk.bitmoji.com/me/sticker/rxamG1qIC9T4KtZvBS47JiATyVeig0bGqzyNqTVZDdf2kCqMKGSZ3Q/20054902.png?p=dD1wO3Y9aGk7bD1wdF9CUg.v1&size=thumbnail"/>
 
 ##
 
