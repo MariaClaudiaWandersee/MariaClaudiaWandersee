@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maria Claudia
 
-- 🔭 Trabalho com Desenvolvimento Web Full Stack - PHP
+- 🔭 Trabalho com Desenvolvimento Web Full Stack
 - ☕ Estudando React.js
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
