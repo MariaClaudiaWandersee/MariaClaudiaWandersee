@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Maria Claudia
 
-- 🔭 Trabalho com Desenvolvimento Web Full Stack
-- ☕ Estudando React.js e TypeScript
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Trabalho com Desenvolvimento Web Front-End
+- ☕ Estudando Ruby on Rails
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/MariaClaudiaWandersee">
