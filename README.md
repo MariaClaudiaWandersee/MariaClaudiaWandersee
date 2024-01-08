@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Claudia
 
 - 🔭 Trabalho com Desenvolvimento Web Front-End
-- ☕ Estudando Ruby on Rails
+- ☕ Estudando TypeScript
 - 🌱 Formada em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
