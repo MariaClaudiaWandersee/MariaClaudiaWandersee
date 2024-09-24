@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Claudia
 
 - 🔭 Trabalho com Desenvolvimento Web Full-Stack
-- ☕ Estudando performance em SQL e Ruby on Rails
+- ☕ Estudando performance em SQL, Ruby on Rails e RSpec
 - 🌱 Formada em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
@@ -11,16 +11,17 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Maria-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Maria-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Maria-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Maria-DotNet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?color=ffffff"/>
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img align="center" alt="Maria-VisualStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?color=currentColor" />
-  <img align="center" alt="Maria-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Maria-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg?"/>
+  <img align="center" alt="Maria-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+  <img align="center" alt="Maria-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
+  
+  <img align="center" alt="Maria-Rails" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
+  
+  <img align="center" alt="Maria-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+  
+  <img align="center" alt="Maria-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  
+  <img align="center" alt="Maria-SqlServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg?"/>
 
 ##
 
