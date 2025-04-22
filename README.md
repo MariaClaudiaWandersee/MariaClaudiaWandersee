@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Claudia
 
 - 🔭 Trabalho com Desenvolvimento Web Full-Stack
-- ☕ Estudando performance em SQL, Ruby on Rails e RSpec
+- ☕ Estudando performance em SQL.
 - 🌱 Formada em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
