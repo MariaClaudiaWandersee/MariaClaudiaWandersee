@@ -13,6 +13,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
+  <img align="center" alt="Maria-TS" height="50" width="50" src="cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+  <img align="center" alt="Maria-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
   <img align="center" alt="Maria-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
   
   <img align="center" alt="Maria-Rails" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
